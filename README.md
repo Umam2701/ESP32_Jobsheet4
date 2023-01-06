@@ -19,9 +19,9 @@ https://user-images.githubusercontent.com/121012286/210361729-d527e46d-7772-4977
 
 *B. ESP32 --> Adafruit IO (MQTT) --> Sensor + LED (on/off) --> Suara di Google Assistan*
 
-![image](https://user-images.githubusercontent.com/121012286/210932826-b0230098-9f5c-4399-a211-2ffcff5ac8ab.png)
+<img width="896" alt="image" src="https://user-images.githubusercontent.com/118170084/211001105-1a85dce7-babe-43f0-a264-cc424d432cc1.png">
 
-![image](https://user-images.githubusercontent.com/121012286/210932844-5923e8c6-afd2-49f9-b067-0c9ff4bf52ae.png)
+<img width="906" alt="image" src="https://user-images.githubusercontent.com/118170084/211001238-2e07925a-bc5d-43f0-ba17-6e55e99538fe.png">
 
 ![image](https://user-images.githubusercontent.com/121012286/210932884-070680e2-a6f1-4e45-b3cd-b4082061a005.png)
 
