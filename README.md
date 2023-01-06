@@ -27,6 +27,7 @@ https://user-images.githubusercontent.com/121012286/210361729-d527e46d-7772-4977
 
 *Analisa :*  Untuk menghasilkan output seperti di atas, membutuhkan library adafruit IO (MQTT) yang kemudian ditambahi LED sebagai indikator untuk mengetahui apakah sensor tersebut bekerja. Kemudian data disimpan ke database lalu `Google Assistan` yang akan mengendalikannya.
 
+<br>
 
 *C. ESP32 --> ThingSpeak (HTTP/REST) --> Sensor*
 
@@ -35,6 +36,8 @@ https://user-images.githubusercontent.com/121012286/210361729-d527e46d-7772-4977
 ![image](https://user-images.githubusercontent.com/121012286/210933010-cdacbf23-36af-431f-84eb-7e1cab533510.png)
 
 *Analisa :* Dari percobaan yang ketiga ini menggunakan sensor DHT 11 untuk membaca suhu dan kelembapan udara. Data dari sensor kemudian di kirim ke ThingSpeak untuk menampilkan data yang dibaca oleh sensor tadi. Data yang ditampilkan berupa chart atau diagram.
+
+<br>
 
 *D. ESP NOW + IoT*
 
